@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.090afb5a.css",
-    "main.js": "/static/js/main.6374956e.js",
-    "static/js/453.5e92a6d2.chunk.js": "/static/js/453.5e92a6d2.chunk.js",
-    "index.html": "/index.html",
-    "main.090afb5a.css.map": "/static/css/main.090afb5a.css.map",
-    "main.6374956e.js.map": "/static/js/main.6374956e.js.map",
-    "453.5e92a6d2.chunk.js.map": "/static/js/453.5e92a6d2.chunk.js.map"
+    "main.css": "/Daltonismo/static/css/main.090afb5a.css",
+    "main.js": "/Daltonismo/static/js/main.40889935.js",
+    "static/js/453.5e92a6d2.chunk.js": "/Daltonismo/static/js/453.5e92a6d2.chunk.js",
+    "index.html": "/Daltonismo/index.html",
+    "main.090afb5a.css.map": "/Daltonismo/static/css/main.090afb5a.css.map",
+    "main.40889935.js.map": "/Daltonismo/static/js/main.40889935.js.map",
+    "453.5e92a6d2.chunk.js.map": "/Daltonismo/static/js/453.5e92a6d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.090afb5a.css",
-    "static/js/main.6374956e.js"
+    "static/js/main.40889935.js"
   ]
 }
